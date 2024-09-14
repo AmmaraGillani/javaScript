@@ -1,3 +1,6 @@
+//ecma site for see datatypes or any other in javascript 
+// https://tc39.es/
+
 let state;
 
 let name = "Ammara"
